@@ -1,14 +1,7 @@
 ---
-date: "2017-06-26T18:27:58+01:00"
-title: "Home"
+title: "About me"
+date: 2023-05-30T18:09:36+03:00
+draft: false
 ---
 
-Welcome to **Cupper**: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project. Here are some of its features:
-
-{{< ticks >}}
-* Screen reader and keyboard accessible
-* Responsive
-* Numerous shortcodes
-* Toggleable dark theme
-* Toggleable table of contents per blog post
-{{< /ticks >}}
+Hello, my name is Abdelrahman, I am computer science senior at Carneigie Mellon University in Qatar, this is my personal website and it's still under development :)
